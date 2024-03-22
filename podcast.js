@@ -1,8 +1,4 @@
 
-<script src="https://cdn.plyr.io/3.7.8/plyr.js"></script>
-<script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
- <!-- [Attributes by Finsweet] CMS Load -->
-<script async src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-cmsload@1/cmsload.js"></script>
 <script>
 const player = new Plyr('#player',{
 settings: [""],
